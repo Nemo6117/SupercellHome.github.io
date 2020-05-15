@@ -304,7 +304,7 @@ body.intro
 .crhomehr
 {
 	position: absolute;
-	top: 195%;
+	top: 200%;
 	width: 100%;
 }
 
@@ -338,7 +338,7 @@ body.intro
 	border-radius: 10px;
 	float: right;
 	position: absolute;
-	top: 100%;
+	top: 105%;
 	right: 10%;
 }
 
@@ -382,23 +382,23 @@ body.intro
 	width: 33%;
 	position: absolute;
 	left: -0.1%;
-	top: 100%;
+	top: 105%;
 }
 
 .cochomehr
 {
 	position: absolute;
 	width: 100%;
-	top: 157%;
+	top: 165%;
 }
 
 .cochometext
 {
 	position: absolute;
-	top: 160%;
+	top: 165%;
 	right: 10%;
 	width: 40%;
-	height: 88%;
+	height: 93%;
 }
 
 .applecoc
