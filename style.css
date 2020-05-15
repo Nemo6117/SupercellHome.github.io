@@ -290,7 +290,6 @@ body.intro
 	position:relative;
 	width: 500%;
 	margin: 0;
-	text-align: left;
 	animation:15s slideshow infinite;
 }
 
